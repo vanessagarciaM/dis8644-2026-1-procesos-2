@@ -15,4 +15,5 @@ Para movernos con fluidez en el editor de esquemáticos, utilizamos varios atajo
 + T : Para agregar un texto
 + E o Doble clik : Propiedades del componente sirve para cambiar la huella
 + G : Sirve para mover un componente de lugar sin desconectarlo de los otros
++ W : Activa la herramienta para dibujar los cables verdes que conectan los pines.
  
