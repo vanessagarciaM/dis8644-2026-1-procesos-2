@@ -3,6 +3,7 @@
 # contenidos clase 
 - Kicad
 - make electronic music from scratch
+- hackaday
 - entrega de este mes 
 # Kicad 
 - dip 7.62 MM de ancho es el mas común (smd no sirve)
