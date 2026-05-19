@@ -45,6 +45,8 @@ A veces en los foros se dan estos experimentos, pero se confunden con los secuen
 
 <https://www.reddit.com/r/synthdiy/comments/1nuerjm/most_drum_sequencers_need_16_buttons_and_a/>
 
+Otro ejemplo de una pagina que da los pasos a seguir:
+<https://www.instructables.com/The-Doof-Machine-Arduino-Drum-Sequencer-Simple-Cus/>
 
 
 En mi grupo para el lunes consiguieron diferentes videos de otros percutores con pruebas del uso:
