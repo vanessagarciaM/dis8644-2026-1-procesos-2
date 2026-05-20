@@ -18,6 +18,58 @@ https://github.com/misaaaaaa/multiples-musicas
 
 - Misaa
 
+En esta clase resolvimos dudas sobre kicad que se nos había solicitado la clase anterior.
+
+- A → Herramienta agregar símbolo
+- ESC → Herramienta selección
+- M → Mover componentes
+- G → Mover // con todo el entramado
+- V → Asignar valor
+- CMD + S / CTRL + S → Guardar
+- E → Editar.
+- F → Footprint.
+- Ctrl + D → duplicar.
+- R → rotar
+- X → reflejo en eje X
+- Y → reflejo en eje Y
+- Alt + 3 → visor 3D
+- F8 → actualizar espaciado en plano
+- Botón verde → controlar planos
+
+
+
+—•— → Sí hay conexión
+
+—X → No conexión
+
+✱ Agregar huellas a símbolos
+
+→ Espacio que ocupa una huella en el espacio
+
+→ Los espacios tienen incertidumbres.
+ 
+F → Footprint.
+
+Leds 5mm → típico 
+
+Asignar a uno el footprint y después duplicar para no hacerlo todos uno tras uno.
+
+Origen de 50 x 50. ← eje
+
+Contorno es la placa.
+
+Pistas → cables output (recorrido de neto)
+
+terminal block.
+
+✱ líneas aéreas → verificar orientación que está conectado a qué.
+
+X → ruta.
+
+Pista intermedia entre componentes.
+
+Perno M3.
+
 ### imagenes de proceso
 
 ### post-clase
@@ -99,4 +151,8 @@ Siempre antes de comenzar a leer un texto nuevo, se debe saber un poco de quien 
 Vilém Flusser fue un escritor, filósofo, pensador y periodista checo-brasileño con familia judía, pero viviendo casi todo el tiempo en Brasil. Él ha adquirido mucho significado para el estudio sobre el vínculo entre la cultura y las tecnologías, particularmente las tecnologías de la comunicación. De él recuerdo haber leído la filosofía del diseño en primer año junto a  Juaquin Zerene, me gustaría recordar más sobre ese texto. 
 
 ¨Hacia una filosofía de la fotografía” es una de sus grandes y reconocidas obras según los lectores que habla sobre la exploración innovadora de la intrincada relación entre imágenes, tecnología y existencia humana.
+
+¿El ser humano es capaz de entender y apreciar el poder de imaginación que tiene? ¿La sociedad de hoy en día tiene más capacidad de generar imágenes, textos o ninguno?
+
+La imagen inmortaliza lo que tenemos a nuestro alrededor, dejándolo a nuestra disposición cuando nosotros lo necesitemos sin tener que volver a ese lugar y así poder traer esa imaginación a otro espacio, compartirlo y comentarlo pero la comunicación de la imagen este se ve atropellada con el sentimiento e interpretación del que genera imágenes, osea teniendo así un lenguaje connotativo. 
 
