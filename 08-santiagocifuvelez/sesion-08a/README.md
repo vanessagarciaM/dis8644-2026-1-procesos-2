@@ -53,4 +53,13 @@ dejamos el de la batería y el del parlante sin asignar huella, porque usualment
 
 ![img6](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img6.png)
 
+7:	Luego, vamos a la PCB, que será nuestra placa tangible:
+![img7](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img7.png)
+
+
 ## 3.	PCB new; un preview de como se verían esos componentes en el mundo real. Tangible y funcional.
+Y se nos abrirá este panel:  
+![img8](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img8.png)
+
+Luego le hundimos este botón para traer nuestro esquemático a la placa o actualizarlo:
+![img9](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img9.png)
