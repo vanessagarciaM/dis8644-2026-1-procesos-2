@@ -73,7 +73,6 @@ Nos aseguramos que no hayan errores y las configuraciones estén así (O solo �
 ![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img12.png)
 
 9.	Y así se previsualizaría:
-![img13](![img12](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img12.png)
-)
+![img13](https://github.com/santiagocifuvelez/dis8644-2026-1-procesos-2/blob/main/08-santiagocifuvelez/sesion-08a/imagenes/img13.jpg)
 
 Fin.
