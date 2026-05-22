@@ -65,3 +65,34 @@ Pequeños consejos del video:
 ---
 
 Y eso es todo por este repo pequeñito, aunque creo que se me quedaron unas cosas en el aire como siempre. 	( ; ω ; ) 
+
+---
+
+Adivinen quien se olvido del teeeexto! 
+
+EJEM: 
+
+## Hacia una filosofía de la fotografía : de Vilém Flusser / Mi opinión y reflexión
+
+A ver, si puedo ser sincera. Mi cerebro fue consumido por el Brainrot intenso, por lo que se me complica un poquito más esto de las reflexiones... pero para entendernos:
+
+Las imagenes son a libre interpretación de cualquier cosa a la que se le capture una imagen. volviendo a un "ser" exterior inimaginable a algo imaginable.
+Pero esta imagen termina siendo atemporal y diferente, por cada vez que la veamos nuevamente, recordando el pasado de algo detenido en el tiempo hace que saquemos mas conclusiones e interpretaciones.
+
+Y en un momento se habla de las interpretaciones *magicas* (en mi caso las tomo como metaforicas) como el ejemplo del gallo y las mañanas
+
+Si las mañanas existen, los gallos cantaran. pero con la *Magia* Los gallos son los que dan las mañanas...que loco
+
+Podria ser otro ejemplo a ver si lo entendí:
+
+Si hay dias frios, habran sopaipillas, pero con magia: las sopaipillas son las que nos reciben e indican que hay dias frios.
+
+"Las imagenes son portales para los humanos a diferentes momentos"...palabras locas y con tanto sentido a la vez
+
+Pero las mismas palabras son las que matan las imagenes, dando conceptualizaciónes de diferentes terminos y cesando la magia de las imagenes...todo en un ciclo que terminaria de romperse, creando las imagenes tecnicas.
+
+---
+
+Con tanta palabra complicada, puedo entender porque los textos mataron las imagenes imaginarias, buscando respuestas a cosas con interpretaciones libres, terminan por destruir la magia de estas ultimas.
+
+WOW, que loco pensar en estas cosas, al una estar tan metida en desarrollos de conceptos con parrafos y parrafos, solo para justificar imagenes que perfectamente otras personas le darán otros significados.
