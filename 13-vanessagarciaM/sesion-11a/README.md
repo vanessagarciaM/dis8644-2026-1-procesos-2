@@ -52,6 +52,8 @@ ___
 
 ## Apuntes clase 
 
+**Y como dijo el gran Misa: "Si no puedes contra ellos, confúndelos" (2026).**
+
 VCC: es el tope; nunca se puede crear nada por sobre esto.
 
 Se puede cambiar la frecuencia por voltaje con un aparato que lo genere. 
