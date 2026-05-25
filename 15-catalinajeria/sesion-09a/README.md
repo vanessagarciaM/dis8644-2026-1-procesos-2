@@ -1,6 +1,23 @@
 # Clase 09a — Hacia una filosofía de la fotografía
 
-## Capítulo 1: La imagen
+(Clases online)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Hacia una filosofía de la fotografía
+### Capítulo 1: La imagen
 
 En el primer capítulo, Vilém Flusser explica que las imágenes son superficies significativas. Su función principal es representar algo exterior y hacerlo imaginable para el ser humano. Para lograrlo, la imagen reduce la realidad, que tiene dimensiones de espacio y tiempo, a una superficie plana de dos dimensiones. A esta capacidad de producir y descifrar imágenes, Flusser la llama imaginación.
 
