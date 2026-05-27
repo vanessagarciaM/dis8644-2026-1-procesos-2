@@ -2,16 +2,16 @@
 
 ## Grupo
 
-Número de grupo: XX
+Número de grupo: 04
 
-Tema del grupo: OscilaXX
+Tema del grupo: Oscilador 2
 
 Integrantes:
 
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
+- Kristel Andrea Ladrón de Guevara Jara / kristelagj
+- Paula Andrea	Fuentes Mena / paulafuentesm
+- Santiago Cifuentes Vélez / santiagocifuvelez
+- Yaira Alexandra	Ruiz Ossandón / yairaruiz
 
 ## Circuito 1
 
