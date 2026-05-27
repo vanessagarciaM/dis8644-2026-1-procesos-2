@@ -42,6 +42,34 @@
   - me gustó la yuxtaposición de obras que trabajaban con naturaleza (plantas/tierra/carbón) y lo digital como los render 3D, como algo "lejano" pero al mismo tiempo existían en la misma sala
     - obvio que todo lo digital viene de la naturaleza pero ver ambos extremos fue interesante
 
+- ## texto flusser 4/5
+    - el acto de fotografiar
+      - fotografo como cazador que busca captar objetos
+      - hay limites de la fotografía tanto en la persona que lo accióna como las limitaciónes de la camara
+        - ej; limites de colores/angulos/luz en camara y sesgo/agilidad/deciciónes esteticas para el humano
+      - menciona que al sacar fotos, uno busca capturar nueva información
+        - la cantidad de fotografías posibles son inimaginables, pero hay un limite
+      - también habla de las variables que ocurren al hacer la acción de tomar la foto
+        - desde que uno encuentra el objeto a fotografiár hasta que se gatilla/presiona el botón (y que se tome la fotografía)
+    - la fotografía
+      - uno entiende la fotografía como una representación leal del mundo real
+        - esto es falso
+          - las fotografías son una abstracción de la realidad
+            - hay un monton de variables excluidas al momento de ver una foto
+              - el alrededor
+              - todo lo que se encuentra fuera del encuadre
+              - olor
+              - tiempo exacto
+              - sensasiónes
+              - colores
+              - etc...
+        - menciona algo interesante
+          - finalmente las fotografías no son más que una abstracción/interpretación de la camara
+            - un proceso que pasa por quimicos/codificación para mostrar un momento capturado en un formato que excluye información vital
+      - hay un manejo dual entre la camara y el/la fotografo/a
+        - hay limitaciónes en ambas caras que dictan como se perciben las imagenes
+       
+
 ------------------------
 
   - ### musica importante
