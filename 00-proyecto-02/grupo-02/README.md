@@ -14,13 +14,19 @@ Integrantes:
 - Angel Sabogal / angel-udp
 - Tomas Catrileo / tomascatri
   
-## Circuito 1
-
-Contador binario/ CD4040
+## Circuito 1 v01: Contador binario - CD4040
 
 ### Descripción general/conceptual 1
 
 ¿Qué hace el circuito? Intentar explicarlo para gente que no sabe electrónica. Ejemplo: escucha los impactos sobre sí mismo y lo convierte en señales de aviso para otras cosas
+
+Este circuito se categoriza como un secuenciador, es decir que genera un patrón repetitivo y ordenado. Un ejemplo de esto es un semáforo, ya que se va a prender siempre en el mismo orden
+
+![Semáforo](./imagenes/semaforo.gif)
+
+El comoo se visualiza este patrón es lo llamativo, ya que consta de diferentes _puntos_ que se _acitvan_, donde algunos se _activan_ más rápido que otros pero siempre con un orden establecido. A continuación se describen 2 ejemplos para entender de mejor manera
+
+1. 
 
 ### Descripción de funcionamiento 1
 
