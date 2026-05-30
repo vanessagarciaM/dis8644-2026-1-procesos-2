@@ -30,3 +30,10 @@ Seguimo pa´ lante!
 
 Hablamos con Aarón para ver que segundo percutor podemos realizar...y después de muchas vueltas y busquedas, se nos dio la opción de investigar otro chip peeeeeero nah
 
+- La idea es que el percutor...percuta, por lo que con un 555 podiamos regular velocidades y se clasificaria como nuestra segunda opción a armar *Por el momento*
+
+Para la siguiente clase deberia ver si poner las huellas
+
+(Spoiler: No va a pasar)
+
+Parece ser un dia bastante menos agitado de lo usual, pero igualmente me alegra cooperar :3
