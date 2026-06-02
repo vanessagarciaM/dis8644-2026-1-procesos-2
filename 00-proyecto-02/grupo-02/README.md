@@ -145,6 +145,8 @@ Se podrían conectar LEDs, sintetizadores, relés, motores o cualquier circuito 
 
 Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
 
+![Funcionamiento circuito 2](./imagenes/circuito2v01.gif)
+
 ## Otros circuitos
 
 ¿Usaron otro circuito temporal para activar algunas cosas? ¿para probar inputs-outputs? Detallar cuales
