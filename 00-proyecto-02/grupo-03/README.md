@@ -2,16 +2,17 @@
 
 ## Grupo
 
-Número de grupo: XX
+Número de grupo: 03
 
 Tema del grupo: OscilaXX
 
 Integrantes:
 
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
-- Nombres Apellidos / GitHub
+- Vanessa García / vanessagarciaM
+- Antonia Loch / antoloch
+- Carla Núñez / ccarlabelenn
+- Ariel Orozco / arielorozco024
+- Narely Riquelme / Narelyriquelme
 
 ## Circuito 1
 
@@ -43,7 +44,7 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Documentación audiovisual funcionamiento protoboard 1
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+<https://youtu.be/w_llKDzQWCs?si=krRRTBGmpJ4E8jTr>
 
 ## Circuito 2
 
@@ -75,7 +76,7 @@ Preguntas orientadoras: ¿Qué inputs recibe? ¿Qué outputs entrega? ¿Cómo ad
 
 ### Documentación audiovisual funcionamiento protoboard 2
 
-Incluir enlace a video en youtube (puede estar en Oculto) con protoboard funcionando
+<https://youtu.be/CfhnyoPfrF4?si=XYL1ljWvHR_3fHHc>
 
 ## Otros circuitos
 
