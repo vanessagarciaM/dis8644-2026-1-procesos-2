@@ -93,6 +93,11 @@ _____________________________________________________________________
 ![*Comunicaciones espaciales*](./imagenes/titulo2osciladorr2.gif)
 ![## Propuesta 02: Comunicaciones espaciales](./imagenes/titulo2oscilador2.gif)
 
+<br>
+<br>
+<br>
+<br>
+
 *Espacio, miles de kilómetros de espacio,*
 
 *y voces vibrando en su centro.*
@@ -104,6 +109,11 @@ _____________________________________________________________________
 *tratando de emocionar a otros hombres.*
 
 —Calidoscopio - Ray Bradbury
+
+<br>
+<br>
+<br>
+<br>
 
 ![comunicacion](./imagenes/comunicacion.jpg)
 
