@@ -265,14 +265,16 @@ Los pines que usamos y su función:
 ### PCB 1
 
 <p align="center">
-  <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/43d6dd07-d854-47e5-ac8d-131c7bd17016" />
+  <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/c341426e-dddc-4608-87cc-7114a05a3024" />
+
   <br/>
   <em>pcb front</em>
 </p>
 
 
 <p align="center">
-  <img width="1100" height="600" <img width="1163" height="917" alt="image" src="https://github.com/user-attachments/assets/170e3f27-bd0e-417d-92cc-1abb855920a2" />
+  <img width="1100" height="600" alt="image" src="https://github.com/user-attachments/assets/240c241d-9078-476f-bd2e-d4d48a3a4382" />
+  
   <br/>
   <em>pcb back</em>
 </p>
