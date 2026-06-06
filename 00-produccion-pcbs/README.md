@@ -22,6 +22,14 @@ en este repo creamos 3 carpetas:
 - ryukivol
 - nicolasvaldesgreve
 
+### g-01-pie-01-rev-a
+
+- cambiamos tamaño r15
+- cambiamos conector de entrada
+- cambiamos nomenclatura de "100 u" a "100u"
+
+### g-01-pie-02-rev-a
+
 ## grupo-02: secuenciadores
 
 - isidoraalvarez
@@ -30,7 +38,7 @@ en este repo creamos 3 carpetas:
 - Estrabismx
 - angel-udp
 
-### g-02-secu-01-v03
+### g-02-sec-01-rev-a
 
 en esquemático:
 
@@ -44,7 +52,7 @@ en pcb:
 
 - actualizamos conectores jack a la huella de la biblioteca, para poder rutear bien los nuevos resistores y no perdernos.
 
-### g-02-secu-02
+### g-02-sec-02-rev-a
 
 en esquemático:
 
