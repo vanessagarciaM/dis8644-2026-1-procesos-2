@@ -27,6 +27,7 @@ en este repo creamos 3 carpetas:
 - cambiamos tamaño r15
 - cambiamos conector de entrada
 - cambiamos nomenclatura de "100 u" a "100u"
+- cambiamos huella de transistor Q1, porque era la equivocada
 
 ### g-01-pie-02-rev-a
 
