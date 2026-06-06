@@ -31,6 +31,8 @@ en este repo creamos 3 carpetas:
 
 ### g-01-pie-02-rev-a
 
+- no fue enviado a producción porque no tenemos garantía de que funcionara según lo visto en protoboard.
+
 ## grupo-02: secuenciadores
 
 - isidoraalvarez
