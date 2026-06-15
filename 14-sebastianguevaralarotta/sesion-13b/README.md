@@ -10,10 +10,38 @@ caja de cigarros - exploracion de carcasas
 
 El mundo de las maquinas y electroncia, crea un puente para poder conectar intereses individuales, como las peliculas de ciencia ficcion, o universos fantasticos llenos de mulitples posibilidades y formas, es la base para empezar a planear y proyectar la forma y funcion de nuestro proyecto. 
 
+---
+ 
  TAN - TAN - TAN 
 
  TAN TAN TAN TAN 
 
-TAN TAN TAN TAN TAN 
+TAN TAN TAN TAN 
+
+---
+
+Oranizacion de proyecto - Examen 
+
+# "multiples mundos que conviven entre si"
+- la electronica visible forma parte del lenuaje del instrumento.
+
+- referentes:
+- victor mazon con srgnum
+- teenege enginering
+
+- para comenzar a entender bien el sintetizador y como crear una partitura, empeze por explicar como funciona el filtro que construimos con mis compañeras.
+
+- FILTRO
+- Es un filtro de tono de dos bordas
+- RV1 - controla principalemente los graves
+- RV2 - controla principalmente los agudos
+
+- ## ¿Que pasa cuando giro RV1?
+-hacia un lado + grave
+-hacia el otro lado - graves 
+
+### ¿Que pasa cuando giro RV2?
+-hacia un lado + brillo 
+-hacia el otro + oscuro 
 
 
