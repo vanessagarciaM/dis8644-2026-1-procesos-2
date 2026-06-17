@@ -11,3 +11,19 @@ Cuando pasamos a comprar los cables, pedimos 20 metros de cada color (negro y ro
 Creo que eso fue todo el día, la verdad no tengo fotos ya que estuvimos ocupados en todo momento. Perdón por lo corto.
 
 ---
+
+# GRAPEFRUIT: A Book of Instruction and Drawings by Yoko Ono - Cap 3 y 4
+
+Nuevamente pondré mis partes favoritas y qué pienso de ellas!!
+
+![Mask piece I y II y la experiencia con la disforia](./imagenes/mask-pieces.png)
+
+Esto lo sentí muy parecido a la desconexión que sentía/siento con mi cuerpo como persona trans debido a la disforia. Se que no todas las personas trans pasan por lo mismo, y de hecho hay unas que no sienten disforia!! lo cual suena super bacán, pero en mi caso desde pequeño siento que realmente el cuerpo en el que estoy no me corresponde ni me representa en lo mínimo, razón por la cual trato de intervenirlo con lo que pueda pero por más que lo intente sé que probablemente nunca conseguiré sentirme satisfecho, pero aprendí que hay que aceptar eso y aceptarme en si para poder vivir tranquilo. Al final la vida es una, y me tocó ser un hombre que parece una niña masc lo cual igual le da el corte! tengo que aprender a vivir con ello.
+
+![Sun piece y nuestra pcb](./imagenes/maincra.png)
+
+Maincra referencia :exclamation: :exclamation:
+
+![Closet piece](./imagenes/closet-piece.png)
+
+Esto me dejó pensando en cuando las personas salimos de una relación ya sea amistosa o amorosa que era horrible por "x" razones, y luego de poner un fin al lazo que teníamos con esa persona la empezamos a extrañar, lo cual en su mayoría sucede debido a que olvidamos todo lo que sucedió y la razón por la que salimos de ahí y solo extrañamos la idea de esa relación y persona, no la relación y persona en sí!! literalmente eliminamos toda memoria de eso y extrañamos lo que nunca fue
